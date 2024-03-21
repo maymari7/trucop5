@@ -276,4 +276,4 @@ function limparmeio(){
  //cartaj3.x=-100;
  //cartaj4.x=-100;
   
-}
+} 
